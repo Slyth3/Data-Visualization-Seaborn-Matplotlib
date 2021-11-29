@@ -1,2 +1,2 @@
-# Data Visualization (Seaborn, Matplotlib, Pandas)
-Visualising data with Seaborn , Matplotlib and Pandas built in visualization library
+# Data Visualization (Seaborn, Matplotlib, Pandas & Plotly)
+Visualising data with Seaborn , Matplotlib, Pandas built-in and Plotly
